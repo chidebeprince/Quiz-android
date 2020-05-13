@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gospel Quiz</string>
+    <string name="question1">Jesus restored man to his former glory</string>
+    <string name="question2">Daniel was afraid of the lions</string>
+    <string name="question3">Jesus is the son of God</string>
+    <string name="question4">The bible was written by one person</string>
+    <string name="question5">God is a man</string>
+    <string name="question6">Jesus turned water to wine</string>
+    <string name="question7">Joseph hated his brothers</string>
+    <string name="question8">Abraham had two sons</string>
+    <string name="question9">Abrahams first son was Issac </string>
+    <string name="question10">Eve was the first woman created by God</string>
+    <string name="quest">Question 1/10</string>
+    <string name="correctans">0/10</string>
+</resources>
